@@ -45,14 +45,22 @@
 
 <div>
   <b> <h2> Basic Knowledge</h2></b>
-    - [Certified Junior Cybersecurity Analys (CJCA) - HTB      (in progress)](https://github.com/L0xxY-Lotuxx/HTB-CJCA)
-    - CyberSecurity 101 - THM                                 (in progress)
+  
+  - [Certified Junior Cybersecurity Analys (CJCA) - HackTheBox](https://github.com/L0xxY-Lotuxx/HTB-CJCA) (in progress)
+  
+  - [CyberSecurity 101 - TryHackMe](https://github.com/L0xxY-Lotuxx/TRYHACKME-Cyber_Security_101) (in progress)
   
   <h2>🔭 <b>Forensics</b> </h2>
+
+  Empty for now
   
   <h2>:loop: <b>OSINT</b> </h2>
   
+  Empty for now
+  
   <h2>:tophat: <b>Hacking</b> </h2>
+
+  Empty for now
   
 </div>
 
