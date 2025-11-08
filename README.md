@@ -25,7 +25,7 @@
 
 ---
 <div id=aboutme>  
-    and I am a Hacker ... <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjg2dG14d2Rkc3AxYXc0ZndpOG94djdidHcwZzk1ZDA5cDB6ZTM2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cfiid6I8YDKqrCxAaY/giphy.gif" width="30"/>
+    and I am a Hacker ... <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjg2dG14d2Rkc3AxYXc0ZndpOG94djdidHcwZzk1ZDA5cDB6ZTM2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cfiid6I8YDKqrCxAaY/giphy.gif" width="30"/> <br>
     
   Or that's why I would like to say, but I'm just a nobody in cyber security into:
   
@@ -34,6 +34,7 @@
 - :tophat: Hacking
  
 </div>
+
 
 <div>
    You are going to see a lot of contents updating in my github as time goes.
