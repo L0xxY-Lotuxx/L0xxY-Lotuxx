@@ -1,17 +1,3 @@
-<!--
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
--->
-
-  
-
-
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHljb3puaDllMDNlYzdib282OWo0eG03bGxmMG8xdm5nN3JybjBzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTcnSWYZvafyhEACBO/giphy.gif" width="400" height="300"/>
 
@@ -36,22 +22,27 @@
 <br>
 
 
-<p id=to_follow_me>
-  I like to learn and explore new things, so you are going to see a lot of contents updating in my github as times goes on, so don't forget to follow me. 
-  I'm going to publish the courses I follow, certifications I'm craming on as well as the CTFs and challenges I'm working on with my personal notes and referencement advices. 
-
-  If you want to have more insiders informations and more details about my experience, or just want to learn more about my cyber journey, I invite you to go to take a look at my Blog. <br>
-  Well actually, truth to be said, I haven't created it yet so the link won't work for now. But I'm working on it and make it available as quickly as possible. I promise you. <br> <br>
-  The Blog is going to retrace my Cyber Journey (like a personal journal) containing:
-
-  - Courses & Certifications followed with my personal experiences, my feeling, what I learned, my tips & avdice and who I would recommend it 
-  - Challenges & CTFs with personal experiences, tips & advice
+<div id=to_follow_me>
+  I like learning and exploring new things, so you’ll see new content popping up on my GitHub from time to time. Stop by whenever you like — maybe you’ll find something interesting!
+  
+  If you want some insider info and a bit more detail about my experience — or if you’re just curious about my cyber journey — I invite you to check out my Blog. <br>
+  Well, truth be told, I haven’t created it yet, so the link won’t work for now. But I’m working on it and I’ll make it available as soon as possible. Promise. 
+  Check back soon — it might just be live next time you visit 😉
+  <br><br>
+  
+  The Blog’s going to share my Cyber Journey — kind of like a personal journal — including:
+  
+  - The topics I’m currently learning, with the resources and references that help me along the way  
+  - The courses and certifications I’m taking, with my honest thoughts, what I’ve learned, my tips, and whether I’d recommend them  
+  - The CTFs and challenges I’m attempting, with my experiences, lessons learned, and a few bits of advice  
 
   <br>
   You can also follow me on my LinkedIn, where I will post regulary about My Cyber Journey.
    
- </p>
+ </div> <br>
+ 
 
+---
 <div id=getting_started>
   <h2> TO GET STARTED</h2>
   At every evolution of my content, I'm going to update the list below in function of their content.
@@ -62,34 +53,38 @@
   3) [OSINT](#osint)
   4) [Hacking](#hacking)
 
-</div>
+<p>You can either explore them by topic/category below, or just browse <a href="https://github.com/L0xxY-Lotuxx?tab=repositories">my GitHub repositories</a> directly.</p>
 
-<br>
+</div><br>
+
+
 ---
-  <div>
-  <b id=basic_knowledge> <h3>Basic Knowledge</h3></b>
+<div>
+  <h2> Dig into my content </h2>
+  <p>Here’s what you can find in my GitHub so far:</p>
+  <b id=basic_knowledge> <h3>📘 Basic Knowledge</h3></b>
   
   - [Certified Junior Cybersecurity Analys (CJCA) - HackTheBox](https://github.com/L0xxY-Lotuxx/HTB-CJCA) (in progress)
   
   - [CyberSecurity 101 - TryHackMe](https://github.com/L0xxY-Lotuxx/TRYHACKME-Cyber_Security_101) (in progress)
   
-  <b id=forensics><h2>🔭 Forensics</h2></b>
+  <br><b id=forensics><h3>🔭 Forensics</h3></b>
 
   Empty for now
   
-  <b id=osint><h2>:loop: OSINT</h2></b>
+  <br><b id=osint><h3>:loop: OSINT</h3></b>
   
   Empty for now
   
-  <b id=hacking><h2>:tophat: Hacking</h2></b> 
+  <br><b id=hacking><h3>:tophat: Hacking</h3></b> 
 
   Empty for now
-</div>  
-
+</div> <br>
 
 
 ---
 <div align="center">
+  Now that's the introduction is finish... 
   <h2>I'm going back learning ! STAY TUNED
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h2>
@@ -104,22 +99,8 @@
     <img src="https://img.shields.io/badge/Blog-red?style=for-the-badge" />
   </a>
   </div>
-    <img src="https://komarev.com/ghpvc/?username=LOxxY-Lotuxx&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=LOxxY-Lotuxx&style=plastic&color=00ff00" alt="Profile views"/>
+  
+
+
 </div>
-
-
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
