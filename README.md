@@ -38,7 +38,7 @@
 <div>
    You are going to see a lot of contents updating in my github as time goes.
    
-   I want this GitHub to be a place were I publish and share everything about the courses, certifications challenges, CTFs I am working on or already finish. If you want to have more information about my cyber journey, you can go take a look at my Blog.
+   I want this GitHub to be a place were I publish and share everything about the courses, certifications challenges, CTFs I am working on or already finish. If you want to have more informations and tips about or simply want to learn more about my cyber journey, you can go take a look at my Blog.
    
    Well actually, truth to be said, I haven't created it yet so the link won't work for now. But I'm working on it and make it available as quicly as possible. I promise you.
  </div>
