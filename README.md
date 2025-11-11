@@ -12,11 +12,7 @@
   and I am a Hacker ... 
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjg2dG14d2Rkc3AxYXc0ZndpOG94djdidHcwZzk1ZDA5cDB6ZTM2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cfiid6I8YDKqrCxAaY/giphy.gif" width="30"/> 
   <br> <br>
-  Or that's why I would like to say, but I'm just a curious nobody in cyber security into:
-  
-  - 🔭 Forensics
-  - :loop: OSINT
-  - :tophat: Hacking
+  Or at least that's why I would like to say, but I'm just a curious nobody exploring the world cyber security.
  
 </p>
 <br>
@@ -30,14 +26,14 @@
   Check back soon — it might just be live next time you visit 😉
   <br><br>
   
-  The Blog’s going to share my Cyber Journey — kind of like a personal journal — including:
+  The Blog’s going to share my CyberAdventure — kind of like a personal journal — including:
   
   - The topics I’m currently learning, with the resources and references that help me along the way  
   - The courses and certifications I’m taking, with my honest thoughts, what I’ve learned, my tips, and whether I’d recommend them  
   - The CTFs and challenges I’m attempting, with my experiences, lessons learned, and a few bits of advice  
 
   <br>
-  You can also follow me on my LinkedIn, where I will post regulary about My Cyber Journey.
+  You can also follow me on my LinkedIn, where I will post regulary about my growth journey.
    
  </div> <br>
  
@@ -60,13 +56,13 @@
 
 ---
 <div>
-  <h2> Dig into my content </h2>
+  <h2> DIG INTO MY CONTENT </h2>
   <p>Here’s what you can find in my GitHub so far:</p>
   <b id=basic_knowledge> <h3>📘 Basic Knowledge</h3></b>
   
-  - [Certified Junior Cybersecurity Analys (CJCA) - HackTheBox](https://github.com/L0xxY-Lotuxx/HTB-CJCA) (in progress)
+  - [Certified Junior Cybersecurity Analyst (CJCA) - HackTheBox](https://github.com/L0xxY-Lotuxx/HTB-CJCA) (in progress)
   
-  - [CyberSecurity 101 - TryHackMe](https://github.com/L0xxY-Lotuxx/TRYHACKME-Cyber_Security_101) (in progress)
+  - [Pre Security - TryHackMe](https://github.com/L0xxY-Lotuxx/TRYHACKME-Cyber_Security_101) (in progress)
   
   <br><b id=forensics><h3>🔭 Forensics</h3></b>
 
